@@ -23,8 +23,17 @@
 ## Atualmente estudando
 <div style="display: inline_block"><br>
 <img align="center" alt="Otavio-Py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  |
 <img align="center" alt="Otavio-SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  |
 <img align="center" alt="Otavio-Django" src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  </div></br>
+  |
+<img align="center" alt="Otavio-Java" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width = "40" height = "30">
+  |
+<img align="center" alt="Otavio-C#" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width = "40" height = "30"> 
+
+ </div>
+                                                                                                                                           
+ </br>
   
   Procuro novas experiências e oportunidades para masterizar as linguagens e aprender sobre novas tecnologias 💻💡🔥
