@@ -17,7 +17,7 @@
   <img align="center" alt="Otavio-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Otavio-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Otavio-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rafa-CSS"  height="80" width="110" src="[https://khromov.github.io/wordpress-badge-generator/images/wp-button-small.png](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)"/>                
+  <img align="center" alt="Rafa-CSS"  height="30" width="110" src="https://khromov.github.io/wordpress-badge-generator/images/wp-button-small.png"/>                
  </div></br>
 
 ## Atualmente estudando
@@ -30,7 +30,8 @@
   |
 <img align="center" alt="Otavio-Java" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width = "40" height = "30">
   |
-<img align="center" alt="Otavio-C#" src= "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" width = "40" height = "30"> 
+<img align="center" alt="Otavio-React" src= "https://icons8.com/icon/wPohyHO_qO1a/react" width = "40" height = "30">
+  |
 
  </div>
                                                                                                                                            
