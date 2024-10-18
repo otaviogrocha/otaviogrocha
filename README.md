@@ -8,7 +8,7 @@
 
 <h3> Entre em contato!</h3>
 <br>
-<a href = "https://api.whatsapp.com/send/?phone=31999884507&text=Olá%2C+gostaria+de+fazer+um+orçamento!&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send/?phone=31999884507&text=Olá%2C+gostaria+de+fazer+um+orçamento!&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href = "mailto:otaviogrocha@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/otaviogrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/otaviog.rocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
